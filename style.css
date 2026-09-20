@@ -140,7 +140,7 @@ section#about p {
   font-family: var(--serif);
   font-weight: 500;
   font-size: 1.05rem;
-  margin: 0;
+  margin: 0 0 0.5rem;
 }
 .paper-meta {
   font-size: 0.82rem;
